@@ -1,0 +1,13 @@
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bin\Debug\resources.pri
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bin\Debug\AppxManifest.xml
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bin\Debug\YuiGame.build.appxrecipe
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\priconfig.xml.intermediate
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\layout.resfiles.intermediate
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\resources.resfiles.intermediate
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\pri.resfiles.intermediate
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\priconfig.xml
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\layout.resfiles
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\resources.resfiles
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\pri.resfiles
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\LanguageQualifiers.txt
+F:\Projects\win8\yuiBasedDemo\YuiGame\YuiGame\bld\Debug\ProjectArchitectures.txt
